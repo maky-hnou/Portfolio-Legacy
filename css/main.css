@@ -4702,17 +4702,6 @@ ul.no-bullets {
   transition: ease-in-out 0.4s;
 }
 
-
-.circular--landscape:hover img {
-    margin-top: 100px;
-    border-radius: 0%;
-    width: 450px;
-    height: 450px;
-    transition: ease-in-out 0.3s;
-
-
-}
-
 .about_me {
     margin-top: -70px;
 }
