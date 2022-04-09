@@ -4686,10 +4686,9 @@ ul.no-bullets {
 .circular--landscape {
   display: inline-block;
   position: relative;
-  width: 400px;
+  width: 380px;
   height: 400px;
   overflow: hidden;
-  margin-left: -47px;
   margin-top: -42px;
 }
 
